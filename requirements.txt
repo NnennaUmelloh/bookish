@@ -1,9 +1,5 @@
-pip install the following
-- streamlit
-
-import the following
-- streamlit
-- plost
-- from PIL import Image
-- pandas
-- numpy
+streamlit
+Pillow
+pandas
+numpy
+plost
