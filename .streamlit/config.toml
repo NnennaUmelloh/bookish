@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8E7D57"       # Olive Green for buttons and accents
+backgroundColor = "#F0F4F1"   # Soft Sage Green
+secondaryBackgroundColor = "#FFFFFF" # White for contrast sections
+textColor = "#4F5B62"         # Slate Gray for readable text
+font = "serif"                # Optional: Use serif fonts for a classic book vibe
